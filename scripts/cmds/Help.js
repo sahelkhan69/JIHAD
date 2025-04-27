@@ -60,11 +60,11 @@ module.exports = {
       const totalCommands = commands.size;
       msg += `\n𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆, 𝘁𝗵𝗲 𝗯𝗼𝘁 𝗵𝗮𝘀 ${totalCommands} 𝗰𝗼𝗺𝗺𝗮𝗻𝗱𝘀 𝘁𝗵𝗮𝘁 𝗰𝗮𝗻 𝗯𝗲 𝘂𝘀𝗲𝗱\n`;
       msg += `\n𝗧𝘆𝗽𝗲 ${prefix}𝗵𝗲𝗹𝗽 𝗰𝗺𝗱𝗡𝗮𝗺𝗲 𝘁𝗼 𝘃𝗶𝗲𝘄 𝘁𝗵𝗲 𝗱𝗲𝘁𝗮𝗶𝗹𝘀 𝗼𝗳 𝘁𝗵𝗮𝘁 𝗰𝗼𝗺𝗺𝗮𝗻𝗱\n`;
-      msg += `\n🫧𝑩𝑶𝑻 𝑵𝑨𝑴𝑬🫧:BAL,PAKNA`;
+      msg += `\n🫧𝑩𝑶𝑻 𝑵𝑨𝑴𝑬🫧:JIHAD,X`;
       msg += `\n𓀬 𝐁𝐎𝐓 𝐎𝐖𝐍𝐄𝐑 𓀬`;
       msg += `\n 	 					`;
-      msg += `\n~𝙉𝘼𝙈𝙀:♡︎ ANIK ♡︎`;
-      msg += `\n~𝙁𝘽:https://https://www.facebook.com/share/15tXa6Lrrd/`;
+      msg += `\n~𝙉𝘼𝙈𝙀:♡︎ JIHAD ♡︎`;
+      msg += `\n~𝙁𝘽:https://www.facebook.com/profile.php?id=61575113010962/`;
 
       await message.reply({
         body: msg,
@@ -122,8 +122,8 @@ module.exports = {
           `├── 𝑼𝑺𝑨𝑮𝑬\n` +
           `│ ${usage}\n` +
           `├── 𝑵𝑶𝑻𝑬𝑺\n` +
-          `│ 𝑇ℎ𝑒 𝑐𝑜𝑛𝑡𝑒𝑛𝑡 𝑖𝑛𝑠𝑖𝑑𝑒 ♡︎ ANIK ♡︎ 𝑐𝑎𝑛 𝑏𝑒 𝑐ℎ𝑎𝑛𝑔𝑒𝑑\n` +
-          `│ ♕︎ 𝐎𝐖𝐍𝐄𝐑 ♕︎:☠︎︎ ANIK ☠︎︎\n` +
+          `│ 𝑇ℎ𝑒 𝑐𝑜𝑛𝑡𝑒𝑛𝑡 𝑖𝑛𝑠𝑖𝑑𝑒 ♡︎ JIHAD ♡︎ 𝑐𝑎𝑛 𝑏𝑒 𝑐ℎ𝑎𝑛𝑔𝑒𝑑\n` +
+          `│ ♕︎ 𝐎𝐖𝐍𝐄𝐑 ♕︎:☠︎︎ JIHAD ☠︎︎\n` +
           `╰━━━━━━━❖`;
 
         await message.reply(response);
